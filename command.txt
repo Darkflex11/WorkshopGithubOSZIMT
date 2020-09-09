@@ -5,6 +5,7 @@ git pull
 git fetch
 git stash
 git status
+git log
 git add
 git rm --cached 
 git restore --staged
@@ -13,5 +14,6 @@ git branch
 git branch <name>
 git checkout
 git checkout -b  <name>
-git merge 
+git merge
+git merge --squash <branch>
 git remote add origin <link>
