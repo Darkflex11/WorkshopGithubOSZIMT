@@ -1,3 +1,4 @@
+```bash
 Git init
 Git add
 git push
@@ -15,3 +16,4 @@ git checkout
 git checkout -b  <name>
 git merge 
 git remote add origin <link>
+```
